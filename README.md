@@ -1,4 +1,4 @@
-# 📱 SMS Spam Classification using Naive Bayes
+#  SMS Spam Classification using Naive Bayes
 
 An end-to-end **text classification** project that detects whether an SMS message is **Spam** or **Ham** (legitimate) using Multinomial Naive Bayes.
 
@@ -8,7 +8,7 @@ An end-to-end **text classification** project that detects whether an SMS messag
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Mobile users receive dozens of SMS messages daily, many of which are spam (promotional or fraudulent).  
 This project builds a machine learning model that automatically classifies SMS messages as **Spam** or **Ham**.
@@ -18,7 +18,7 @@ This project builds a machine learning model that automatically classifies SMS m
 
 ---
 
-## 🛠️ Pipeline
+##  Pipeline
 
 1. Data Loading & Cleaning
 2. Exploratory Data Analysis (Ham vs Spam distribution + message length analysis)
@@ -31,7 +31,7 @@ This project builds a machine learning model that automatically classifies SMS m
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Spam messages are generally **longer** than legitimate messages
 - Naive Bayes works exceptionally well on high-dimensional sparse text data
@@ -39,7 +39,7 @@ This project builds a machine learning model that automatically classifies SMS m
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 2. Place the dataset `sms_spam.csv` in the same folder
